@@ -1,0 +1,20 @@
+{
+  "ssh": {
+    "host": "47.112.21.40",
+    "port": 22,
+    "username": "root",
+    "password": "Ainest@1234!",
+    "key_filename": ""
+  },
+  "postgres": {
+    "container": "flowgate-postgres",
+    "user": "flowgate",
+    "database": "flowgate"
+  },
+  "security": {
+    "data_key": "SBGe6NsMDAt4T2ipHGNMi7s4eZp7HlvL77qE16wwdas="
+  },
+  "account_id": null,
+  "show_secrets": true,
+  "accept_new_host_key": false
+}

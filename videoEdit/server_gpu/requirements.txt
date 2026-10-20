@@ -1,0 +1,5 @@
+insightface==0.7.3
+# Match the server's existing CUDA 12.x and cuDNN 9 runtime libraries.
+onnxruntime-gpu==1.26.0
+opencv-python-headless
+numpy
